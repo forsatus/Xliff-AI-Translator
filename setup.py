@@ -1,4 +1,4 @@
-﻿from setuptools import setup, find_packages
+from setuptools import setup, find_packages
 
 # Read the contents of your README file
 with open('README.md', encoding='utf-8') as f:
@@ -17,7 +17,8 @@ setup(
     url='https://github.com/sutasrof/Xliff-AI-Translator',
     install_requires=[
         'transformers[torch]>=4.34.1',
-        'sentencepiece>=0.1.99'
+        'sentencepiece>=0.1.99',
+        'lxml>=4.9.3'
     ],
     classifiers=[
         'Programming Language :: Python :: 3',
