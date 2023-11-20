@@ -7,7 +7,7 @@ XLIFF AI Translator is an AI-powered tool designed to translate XLIFF files, enh
 - **Automated Translation**: Efficiently translates XLIFF files from one language to another, supporting multiple languages.
 - **AI Integration**: Employs cutting-edge AI translation models for accurate file translation.
 - **Customizable Workflow**: Adaptable to specific translation needs and preferences.
-- **Batch Processing Capability**: Allows translation of multiple files at once, optimizing productivity.
+- **Batch Processing Capability**: Allows translation of multiple text at once, optimizing productivity.
 - **User-Oriented Design**: Simple and accessible, suitable for both technical and non-technical users.
 
 ## Installation
