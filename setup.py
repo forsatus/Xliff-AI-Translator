@@ -1,3 +1,26 @@
+"""
+Configuration for the xliff-ai-translator package.
+
+This setup script configures the xliff-ai-translator package, an AI-driven solution for
+efficiently translating XLIFF/XLF files, facilitating language bridging for localized
+content. It includes the package metadata, dependencies, and entry points.
+
+The package uses the transformers library for AI-based translation, alongside other
+dependencies like sentencepiece and lxml for handling specific file formats and data
+processing.
+
+The setup script reads the long description from the README.md file and sets the
+package information, including the name, version, description, author details, and
+more. It also specifies Python version requirements and classifier metadata.
+
+Entry Points:
+    Defines a command-line entry point 'xliff_ai_translator' for easy access to the
+    package's main functionality.
+
+Usage:
+    This script is used to build and distribute the package, not for direct execution.
+"""
+
 from setuptools import setup, find_packages
 
 # Read the contents of your README file
