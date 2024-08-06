@@ -27,7 +27,7 @@ This command installs the latest version along with its dependencies.
 Alternatively, install from source with these commands:
 
 ```
-git clone https://github.com/sutasrof/xliff-ai-translator.git
+git clone https://github.com/forsatus/xliff-ai-translator.git
 cd xliff-ai-translator
 pip install .
 ```
